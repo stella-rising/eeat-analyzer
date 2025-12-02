@@ -1,7 +1,7 @@
 {
   "name": "eeat-analyzer",
-  "version": "1.0.0",
-  "description": "E-E-A-T Analysis Tool based on Google's Search Quality Rater Guidelines",
+  "version": "2.0.0",
+  "description": "E-E-A-T Analysis Tool with intent-aware scoring based on Google's Search Quality Rater Guidelines",
   "type": "module",
   "scripts": {
     "dev": "vite",
